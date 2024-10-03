@@ -1,2 +1,2 @@
-make say-hello:
+make say-hello
   Hello, World!
